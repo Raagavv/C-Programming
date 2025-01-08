@@ -33,6 +33,7 @@ This program implements a simple lexical analyzer that processes an input file t
 
 **OUTPUT OF THE TASK**
 
+![Task-3](https://github.com/user-attachments/assets/faf19077-90ae-4180-89d5-e4b925885830)
 
 
 # Task-4
@@ -40,3 +41,5 @@ This program implements a simple lexical analyzer that processes an input file t
 This program implements a basic data compression algorithm using Run-Length Encoding (RLE). RLE is a simple and efficient lossless compression technique that replaces sequences of the same character with a single instance of the character followed by its frequency. The program also supports decompression to reconstruct the original text from the compressed data.
 
 **OUTPUT OF THE TASK**
+
+
