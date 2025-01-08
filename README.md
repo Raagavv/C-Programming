@@ -24,6 +24,7 @@ The C program provided implements a singly linked list with modular and efficien
 
 **OUTPUT OF THE TASK**
 
+![Task-2](https://github.com/user-attachments/assets/ebfe9c38-ac8d-45b3-9078-b78a3cb0881e)
 
 
 # Task-3
